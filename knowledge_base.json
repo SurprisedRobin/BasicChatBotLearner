@@ -1,0 +1,20 @@
+{
+  "questions": [
+    {
+      "question": "Hello there",
+      "answer": "Hello there fellow human"
+    },
+    {
+      "question": "Hvor stor er en bl\u00e5val",
+      "answer": "Med sine n\u00e6sten 34 m er bl\u00e5hvalen det st\u00f8rste dyr, der nogensinde har eksisteret p\u00e5 Jorden."
+    },
+    {
+      "question": "hvor stort er et egern",
+      "answer": "Et egern har en kropl\u00e6nge p\u00e5 omkring 20cm"
+    },
+    {
+      "question": "Hvor h\u00f8j er en humbolt pengvin",
+      "answer": "En humbolt pengvin er 33cm h\u00f8j og vejer omkring 4kg"
+    }
+  ]
+}
